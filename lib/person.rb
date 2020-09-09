@@ -1,5 +1,5 @@
 class Person
 end
 
-al_pine = Person.new
-Ruby Guy = Person.new
+Perl_Person = Person.new
+Ruby_Guy = Person.new
